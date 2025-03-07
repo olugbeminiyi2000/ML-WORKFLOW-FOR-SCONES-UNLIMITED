@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen.svg) ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-Image%20Classification-orange.svg) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Workflow-red.svg) ![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-Orchestration-blue.svg) ![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage-lightgrey.svg) ![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)  
+
 # Machine Learning Workflow for Scones Unlimited on Amazon SageMaker
 
 Welcome to the Machine Learning Workflow project for Scones Unlimited on Amazon SageMaker! This project aims to set up, train, deploy, and monitor a machine learning model for image classification using Amazon SageMaker.
